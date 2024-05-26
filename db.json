@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "c7e0de9b-a226-480c-91ab-11b8bccfca41",
+      "name": "Test Microservice",
+      "email": "fdaf@gmail.co",
+      "phone": "dadfad"
+    },
+    {
+      "id": "02cafcf0-93e7-49a7-8951-a46fe074d8d7",
+      "name": "Test Microservice",
+      "email": "demo@minimals.cc",
+      "phone": "dadfad"
+    }
+  ]
+}
