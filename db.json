@@ -1,16 +1,16 @@
 {
   "contacts": [
     {
-      "id": "c7e0de9b-a226-480c-91ab-11b8bccfca41",
-      "name": "Test Microservice",
-      "email": "fdaf@gmail.co",
-      "phone": "dadfad"
+      "id": "3bf1e255-7c93-41c4-af0a-2a272602a5b4",
+      "name": "John",
+      "email": "john@mail.com",
+      "phone": "+12342352356352"
     },
     {
-      "id": "02cafcf0-93e7-49a7-8951-a46fe074d8d7",
-      "name": "Test Microservice",
-      "email": "demo@minimals.cc",
-      "phone": "dadfad"
+      "id": "68b6c0bb-ad59-4e0c-b4d8-c3737848dbaa",
+      "name": "Tom",
+      "email": "tom@example.com",
+      "phone": "+287878789889"
     }
   ]
 }
